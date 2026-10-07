@@ -12,6 +12,15 @@ C (Still learning)
 I want:
 To learn Typescript (maybe)
 
+Likes:
+C
+
+WASM
+
+Games
+
+Everything but school blockers (even school itself!)
+
 Orgranization:
 Maybe HeyPuter or MercuryWorkshop (not to be wierd tho)
  
