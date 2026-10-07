@@ -22,6 +22,6 @@ Games
 Everything but school blockers (even school itself!)
 
 Orgranization:
-Maybe HeyPuter or MercuryWorkshop (not to be wierd tho)
+Maybe HeyPuter or MercuryWorkshop (not to be weird tho, really wanna join tho)
  
 
