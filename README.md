@@ -7,6 +7,7 @@
 2025-present - Just started coding again and now I'm still learning
 
 Programming languages:
+
 C (Still learning)
 
 I want:
