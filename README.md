@@ -8,14 +8,12 @@
 
 Programming languages:
 
-C++ (learning)
 
 I want:
 
 To learn Typescript (maybe)
 
 Likes:
-C++
 
 WASM
 
