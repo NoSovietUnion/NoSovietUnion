@@ -1,2 +1,2 @@
-# Websites
-Motherducker - motherducker00.vercel.app
+# Programming languages
+Javascript
