@@ -17,8 +17,6 @@ nothing for now :)
 # Programming languages:
 
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/6f2d7ac5-9773-439b-a791-da78c42834e1" />
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/ca4c93ca-8593-4ef8-bd9e-342d3712995c" />
-
 
 # Projects are published on:
 
@@ -28,3 +26,5 @@ nothing for now :)
 
 # Other Programming Languages:
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/33f7cf65-56da-4efa-a600-120574bf6e19" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/cd587d47-059a-4537-8267-67b38f51cae5" />
+
