@@ -4,11 +4,10 @@ Hello! My name is Motherducker and I program things that pop up in my mind!
 
 # Games I play:
 
-Minecraft (Absolute favorite)
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/aa7de03e-3f61-4df3-af46-7b191a10c4d7" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5caef406-1053-441c-8e81-1ed063fd51de" />
 
-Geometry Dash (2nd favorite)
 
-GTA 4 & 5 (Cool waiting for 6)
 
 # Contact me:
 
