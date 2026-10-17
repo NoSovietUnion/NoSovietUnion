@@ -18,4 +18,4 @@ nothing for now :)
 
 # Programming languages:
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/400c6a9f-63d4-4e1e-9661-0da33c8ea77f" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/400c6a9f-63d4-4e1e-9661-0da33c8ea77f" />
