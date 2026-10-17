@@ -25,4 +25,4 @@ nothing for now :)
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/55fab1d0-08ed-4818-9cf1-b041eb79f548" />
 
 # Other Programming Languages:
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/4c561377-4a96-49f5-98da-8c75dd242447" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/33f7cf65-56da-4efa-a600-120574bf6e19" />
