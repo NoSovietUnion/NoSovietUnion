@@ -23,3 +23,6 @@ nothing for now :)
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/654c8a7c-c0dd-4ff6-b419-d69b0ec24609" />
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/8b50eb6a-cc52-4838-9346-b6b962925c5d" />
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/55fab1d0-08ed-4818-9cf1-b041eb79f548" />
+
+# Other Programming Languages:
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4c561377-4a96-49f5-98da-8c75dd242447" />
