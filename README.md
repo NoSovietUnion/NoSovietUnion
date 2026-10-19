@@ -16,15 +16,10 @@ nothing for now :)
 
 # Programming languages:
 
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/6f2d7ac5-9773-439b-a791-da78c42834e1" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/3639a5a2-e984-47c7-9468-13c41425410e" />
 
 # Projects are published on:
 
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/654c8a7c-c0dd-4ff6-b419-d69b0ec24609" />
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/8b50eb6a-cc52-4838-9346-b6b962925c5d" />
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/55fab1d0-08ed-4818-9cf1-b041eb79f548" />
-
-# Other Programming Languages:
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/33f7cf65-56da-4efa-a600-120574bf6e19" />
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/cd587d47-059a-4537-8267-67b38f51cae5" />
-
