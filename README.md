@@ -16,7 +16,7 @@ nothing for now :)
 
 # Programming languages:
 
-<img width="60" height="43" alt="image" src="https://github.com/user-attachments/assets/7f359378-c660-4eca-9dcc-a9b9c89364d5" />
+<img width="58" height="50" alt="image" src="https://github.com/user-attachments/assets/9780e70f-c91f-43f8-93cb-51898d6de1f2" />
 
 # Projects are published on:
 
