@@ -1,6 +1,6 @@
 # Welcome:
 
-Hello! My name is Motherducker and I program things that pop up in my mind!
+Hello! My name is RYDER and I program things that pop up in my mind!
 
 # Games I play:
 
