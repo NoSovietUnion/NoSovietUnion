@@ -16,9 +16,7 @@ If you wanna partner up or just wanna talk or yell!
 nothing for now :)
 
 # Programming languages:
-
-<img width="63" height="73" alt="image" src="https://github.com/user-attachments/assets/ebf57950-6952-4979-82f6-6e0995da78e8" />
-
+C# (Learning)
 
 
 # Projects are published on:
