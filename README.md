@@ -4,7 +4,6 @@ Hello! My name is RYDER and I program random things pop up in my mind!
 
 # Games I play:
 
-Still playing ts lol
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/e7483597-f2b4-4e1d-8a44-aac306afd041" />
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/5caef406-1053-441c-8e81-1ed063fd51de" />
 
