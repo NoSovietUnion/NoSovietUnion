@@ -20,4 +20,6 @@ nothing for now :)
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/8b50eb6a-cc52-4838-9346-b6b962925c5d" />
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/55fab1d0-08ed-4818-9cf1-b041eb79f548" />
 
-# Other:
+# Programming Languages:
+
+C - Learning
