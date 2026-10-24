@@ -14,11 +14,6 @@ If you wanna partner up or just wanna talk or yell!
 
 nothing for now :)
 
-# Programming languages:
-
-<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/b6e9b4e1-5939-49ce-9c09-2ed1041ed85e" />
-
-
 # Projects are published on:
 
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/654c8a7c-c0dd-4ff6-b419-d69b0ec24609" />
